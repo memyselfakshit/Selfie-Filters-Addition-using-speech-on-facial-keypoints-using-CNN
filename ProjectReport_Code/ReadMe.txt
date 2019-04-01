@@ -1,0 +1,1 @@
+Just Run Shades.py, it has all the code that takes up a trained model and give out the whole application on screen as output
